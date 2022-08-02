@@ -1,0 +1,24 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "```javascript\r {\r   id: 1,\r   name: 'Leanne Graham',\r   username: 'Bret',\r   email: 'Sincere@april.biz',\r   address: {\r     street: 'Kulas Light',\r     suite: 'Apt. 556',\r     city: 'Gwenborough',\r     zipcode: '92998-3874',\r     geo: { lat: '-37.3159', lng: '81.1496' }\r   },\r   phone: '1-770-736-8031 x56442',\r   website: 'hildegard.org',\r   company: {\r     name: 'Romaguera-Crona',\r     catchPhrase: 'Multi-layered client-server neural-net',\r     bs: 'harness real-time e-markets'\r   }\r }\r Posts:  {\r   userId: 1,\r   id: 1,\r   title: 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit',\r   body: 'quia et suscipit\\n' +\r     'suscipit recusandae consequuntur expedita et cum\\n' +\r     'reprehenderit molestiae ut ut quas totam\\n' +\r     'nostrum rerum est autem sunt rem eveniet architecto'\r }\r ```",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rcpsngl/Js-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rcpsngl/Js-task/issues"
+  },
+  "homepage": "https://github.com/Rcpsngl/Js-task#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
